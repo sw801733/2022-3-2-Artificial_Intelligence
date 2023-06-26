@@ -1,1 +1,0 @@
-ax.text(x2,y2,z2,cc)
